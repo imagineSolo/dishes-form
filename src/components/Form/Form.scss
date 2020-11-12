@@ -1,0 +1,58 @@
+.form {
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    width: 50vw;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 5px;
+
+.form-control {
+    padding: 1%;
+    margin: 10px;
+
+    .input-label {
+        padding: 10px;
+    }
+
+    .pizza-options {
+        display: flex;
+
+        div {
+            margin: 2px;
+        }
+    }
+}
+
+.type {
+    height: 20vh;
+}
+
+select, input {
+    font-size: inherit;
+}
+
+.submit {   
+    align-self: center;
+    cursor: pointer;
+    background-color: #9c88ff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    color: #fff;
+    border: 0;
+    display: block;
+    font-size: 1.34rem;
+    margin: 10px 0 30px;
+    padding: 10px;
+    width: 25%;
+    border-radius: 10px;
+}
+
+.submit:hover {
+    background-color: #7465be
+    }
+}
