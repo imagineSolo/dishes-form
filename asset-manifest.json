@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/imagineSolo/dishes-form/static/css/main.0ea5cb98.chunk.css",
-    "main.js": "/imagineSolo/dishes-form/static/js/main.8cc454ea.chunk.js",
-    "main.js.map": "/imagineSolo/dishes-form/static/js/main.8cc454ea.chunk.js.map",
-    "runtime-main.js": "/imagineSolo/dishes-form/static/js/runtime-main.9c83dd3a.js",
-    "runtime-main.js.map": "/imagineSolo/dishes-form/static/js/runtime-main.9c83dd3a.js.map",
-    "static/js/2.b1126ae9.chunk.js": "/imagineSolo/dishes-form/static/js/2.b1126ae9.chunk.js",
-    "static/js/2.b1126ae9.chunk.js.map": "/imagineSolo/dishes-form/static/js/2.b1126ae9.chunk.js.map",
-    "index.html": "/imagineSolo/dishes-form/index.html",
-    "static/css/main.0ea5cb98.chunk.css.map": "/imagineSolo/dishes-form/static/css/main.0ea5cb98.chunk.css.map",
-    "static/js/2.b1126ae9.chunk.js.LICENSE.txt": "/imagineSolo/dishes-form/static/js/2.b1126ae9.chunk.js.LICENSE.txt"
+    "main.css": "/dishes-form/static/css/main.0ea5cb98.chunk.css",
+    "main.js": "/dishes-form/static/js/main.8cc454ea.chunk.js",
+    "main.js.map": "/dishes-form/static/js/main.8cc454ea.chunk.js.map",
+    "runtime-main.js": "/dishes-form/static/js/runtime-main.f839ef7a.js",
+    "runtime-main.js.map": "/dishes-form/static/js/runtime-main.f839ef7a.js.map",
+    "static/js/2.b1126ae9.chunk.js": "/dishes-form/static/js/2.b1126ae9.chunk.js",
+    "static/js/2.b1126ae9.chunk.js.map": "/dishes-form/static/js/2.b1126ae9.chunk.js.map",
+    "index.html": "/dishes-form/index.html",
+    "static/css/main.0ea5cb98.chunk.css.map": "/dishes-form/static/css/main.0ea5cb98.chunk.css.map",
+    "static/js/2.b1126ae9.chunk.js.LICENSE.txt": "/dishes-form/static/js/2.b1126ae9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c83dd3a.js",
+    "static/js/runtime-main.f839ef7a.js",
     "static/js/2.b1126ae9.chunk.js",
     "static/css/main.0ea5cb98.chunk.css",
     "static/js/main.8cc454ea.chunk.js"
